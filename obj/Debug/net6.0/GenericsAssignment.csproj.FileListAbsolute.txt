@@ -1,0 +1,14 @@
+C:\Users\akhilprem\source\repos\GenericsAssignment\GenericsAssignment\bin\Debug\net6.0\GenericsAssignment.exe
+C:\Users\akhilprem\source\repos\GenericsAssignment\GenericsAssignment\bin\Debug\net6.0\GenericsAssignment.deps.json
+C:\Users\akhilprem\source\repos\GenericsAssignment\GenericsAssignment\bin\Debug\net6.0\GenericsAssignment.runtimeconfig.json
+C:\Users\akhilprem\source\repos\GenericsAssignment\GenericsAssignment\bin\Debug\net6.0\GenericsAssignment.dll
+C:\Users\akhilprem\source\repos\GenericsAssignment\GenericsAssignment\bin\Debug\net6.0\GenericsAssignment.pdb
+C:\Users\akhilprem\source\repos\GenericsAssignment\GenericsAssignment\obj\Debug\net6.0\GenericsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhilprem\source\repos\GenericsAssignment\GenericsAssignment\obj\Debug\net6.0\GenericsAssignment.AssemblyInfoInputs.cache
+C:\Users\akhilprem\source\repos\GenericsAssignment\GenericsAssignment\obj\Debug\net6.0\GenericsAssignment.AssemblyInfo.cs
+C:\Users\akhilprem\source\repos\GenericsAssignment\GenericsAssignment\obj\Debug\net6.0\GenericsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\akhilprem\source\repos\GenericsAssignment\GenericsAssignment\obj\Debug\net6.0\GenericsAssignment.dll
+C:\Users\akhilprem\source\repos\GenericsAssignment\GenericsAssignment\obj\Debug\net6.0\refint\GenericsAssignment.dll
+C:\Users\akhilprem\source\repos\GenericsAssignment\GenericsAssignment\obj\Debug\net6.0\GenericsAssignment.pdb
+C:\Users\akhilprem\source\repos\GenericsAssignment\GenericsAssignment\obj\Debug\net6.0\GenericsAssignment.genruntimeconfig.cache
+C:\Users\akhilprem\source\repos\GenericsAssignment\GenericsAssignment\obj\Debug\net6.0\ref\GenericsAssignment.dll
